@@ -1,0 +1,6999 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Teachers_Timetable>
+  <Teacher name="ANG5">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Anglès"></Subject><Students name="3r ESO D GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="3r ESO D GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="3r ESO D GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="3r ESO D GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Alexis Albelda">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Música"></Subject><Students name="1r ESO D"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 2 "></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Tutoria"></Subject><Students name="1r ESO D"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Música"></Subject><Students name="1r ESO D"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Música"></Subject><Students name="1r ESO C"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Opt.Franja 2 "></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Música"></Subject><Students name="1r ESO B"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Música"></Subject><Students name="1r ESO C"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt.Franja 2 "></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Música"></Subject><Students name="1r ESO B"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Ana Segura">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 2 "></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 2nBtx-2"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Opt 1nBtx-1"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 1nBtx-1"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Opt.Franja 2 "></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 2nBtx-2"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt.Franja 2 "></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Andrea Zamora">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO D GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Tutoria"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="LLat/MAT/MATS"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO C GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO D GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO C GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="LLat/MAT/MATS"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO D GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Matemàtiques"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO C GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO D GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="LLat/MAT/MATS"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO C GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="LLat/MAT/MATS"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Conxita Mañosa">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="LL. Castellana"></Subject><Students name="3r ESO D GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="LL. Castellana"></Subject><Students name="1r ESO A GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="LL. Castellana"></Subject><Students name="3r ESO C GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="LL. Castellana"></Subject><Students name="3r ESO B GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="LL. Castellana"></Subject><Students name="1r ESO D GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="LL. Castellana"></Subject><Students name="1r ESO A GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="LL. Castellana"></Subject><Students name="3r ESO C GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="LL. Castellana"></Subject><Students name="3r ESO D GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="LL. Castellana"></Subject><Students name="3r ESO B GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="LL. Castellana"></Subject><Students name="3r ESO D GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Tutoria"></Subject><Students name="3r ESO D"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="LL. Castellana"></Subject><Students name="3r ESO A GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="LL. Castellana"></Subject><Students name="3r ESO C GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="LL. Castellana"></Subject><Students name="3r ESO A GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="LL. Castellana"></Subject><Students name="1r ESO A GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="LL. Castellana"></Subject><Students name="1r ESO D GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="LL. Castellana"></Subject><Students name="3r ESO A GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="LL. Castellana"></Subject><Students name="1r ESO D GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="LL. Castellana"></Subject><Students name="3r ESO B GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Cristina Martin">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="LL. Castellana"></Subject><Students name="1r ESO C GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="LL. Castellana"></Subject><Students name="1r ESO B GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="LL. Castellana"></Subject><Students name="1r ESO B GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="LL. Castellana"></Subject><Students name="1r ESO C GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tutoria"></Subject><Students name="1r ESO B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="LL. Castellana"></Subject><Students name="1r ESO B GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="LL. Castellana"></Subject><Students name="1r ESO C GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Cristina Segura">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO B GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="2n Batx Social"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO A GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO A GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO B GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="2n Batx Social"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO A GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Matemàtiques"></Subject><Students name="2n Batx Social"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO B GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Tutoria"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Matemàtiques"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="2n Batx Social"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO B GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO A GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Diego Gámez">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO C"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO D"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 2 "></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO D"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="RCP"></Subject>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO B"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO B"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Tecnologia"></Subject><Students name="2n ESO B"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Opt.Franja 2 "></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO A"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Tecnologia"></Subject><Students name="2n ESO A"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Tecnologia"></Subject><Students name="2n ESO C"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO C"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt.Franja 2 "></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO A"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tecnologia"></Subject><Students name="2n ESO D"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="EF 4">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Educació Física"></Subject><Students name="3r ESO C"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Educació Física"></Subject><Students name="3r ESO A"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Educació Física"></Subject><Students name="1r ESO B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Educació Física"></Subject><Students name="3r ESO D"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Educació Física"></Subject><Students name="1r ESO B"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Educació Física"></Subject><Students name="3r ESO B"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Educació Física"></Subject><Students name="1r ESO A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Educació Física"></Subject><Students name="1r ESO C"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Tutoria"></Subject><Students name="1r ESO C"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Educació Física"></Subject><Students name="3r ESO A"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Educació Física"></Subject><Students name="1r ESO D"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Educació Física"></Subject><Students name="3r ESO C"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Educació Física"></Subject><Students name="1r ESO C"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Educació Física"></Subject><Students name="1r ESO A"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Educació Física"></Subject><Students name="1r ESO D"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Educació Física"></Subject><Students name="3r ESO B"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Educació Física"></Subject><Students name="3r ESO D"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="EXP7">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Bio-Geo"></Subject><Students name="1r ESO D"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Bio-Geo"></Subject><Students name="1r ESO C"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 1nBtx-2"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO C"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Opt 1nBtx-1"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 1nBtx-1"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO D"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO C"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 1nBtx-2"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO D"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Bio-Geo"></Subject><Students name="1r ESO C"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Bio-Geo"></Subject><Students name="1r ESO D"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Eduard Bartrina">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO C GF"></Students><Students name="1r ESO D GF"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="LL. Castellana"></Subject><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="2n ESO D GF"></Students><Students name="2n ESO C GF"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="LL. Castellana"></Subject><Students name="1r ESO C GF"></Students><Students name="1r ESO D GF"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="LL. Castellana"></Subject><Students name="1r ESO C GF"></Students><Students name="1r ESO D GF"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Anglès"></Subject><Students name="2n ESO D GF"></Students><Students name="2n ESO C GF"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO C GF"></Students><Students name="1r ESO D GF"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="LL. Castellana"></Subject><Students name="1BTX-YTH"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="LL. Castellana"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Tutoria"></Subject><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="2n ESO D GF"></Students><Students name="2n ESO C GF"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="LL. Castellana"></Subject><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="LL. Castellana"></Subject><Students name="1r ESO C GF"></Students><Students name="1r ESO D GF"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO C GF"></Students><Students name="1r ESO D GF"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="2n ESO D GF"></Students><Students name="2n ESO C GF"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="LL. Castellana"></Subject><Students name="1BTX-YTH"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="1r ESO C GF"></Students><Students name="1r ESO D GF"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="RGF"></Subject>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="LL. Castellana"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Enric Navarro">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Geografia-Història"></Subject><Students name="1r ESO B"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Geografia-Història"></Subject><Students name="1r ESO C"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Geografia-Història"></Subject><Students name="1r ESO A"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Geografia-Història"></Subject><Students name="1r ESO D"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Geografia"></Subject><Students name="2n Batx Social"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Geografia-Història"></Subject><Students name="1r ESO D"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Geografia"></Subject><Students name="2n Batx Social"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="RCP"></Subject>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Geografia-Història"></Subject><Students name="1r ESO A"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Geografia-Història"></Subject><Students name="1r ESO C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Geografia"></Subject><Students name="2n Batx Social"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Geografia-Història"></Subject><Students name="1r ESO A"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Geografia-Història"></Subject><Students name="1r ESO C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Geografia-Història"></Subject><Students name="1r ESO D"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Geografia-Història"></Subject><Students name="1r ESO B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Geografia-Història"></Subject><Students name="1r ESO B"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Geografia"></Subject><Students name="2n Batx Social"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Ernesto Chacón">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Tutoria"></Subject><Students name="4t ESO C"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="LL. Castellana"></Subject><Students name="4t ESO B GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="LL. Castellana"></Subject><Students name="4t ESO A GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="LL. Castellana"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="LL. Castellana"></Subject><Students name="4t ESO D GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="LL. Castellana"></Subject><Students name="4t ESO A GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="LL. Castellana"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="LL. Castellana"></Subject><Students name="4t ESO C GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="LL. Castellana"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="LL. Castellana"></Subject><Students name="4t ESO A GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="LL. Castellana"></Subject><Students name="4t ESO C GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="LL. Castellana"></Subject><Students name="4t ESO D GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="LL. Castellana"></Subject><Students name="4t ESO B GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="LL. Castellana"></Subject><Students name="4t ESO C GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="LL. Castellana"></Subject><Students name="4t ESO D GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="LL. Castellana"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="LL. Castellana"></Subject><Students name="4t ESO B GR"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Estel·la Gili">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Llatí"></Subject><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Grec"></Subject><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Grec"></Subject><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Llatí"></Subject><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Grec"></Subject><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Llatí"></Subject><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Llatí"></Subject><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Grec"></Subject><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Eva Cazcarro">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Visual i Plàstica"></Subject><Students name="3r ESO A"></Students><Room name="18"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 2nBtx-1"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Visual i Plàstica"></Subject><Students name="3r ESO B"></Students><Room name="18"></Room>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 1nBtx-2"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Visual i Plàstica"></Subject><Students name="3r ESO D"></Students><Room name="18"></Room>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Visual i Plàstica"></Subject><Students name="3r ESO D"></Students><Room name="18"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 2nBtx-2"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="RCP"></Subject>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Opt 1nBtx-1"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Opt 2nBtx-1"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 1nBtx-1"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Visual i Plàstica"></Subject><Students name="3r ESO B"></Students><Room name="18"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 1nBtx-2"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Visual i Plàstica"></Subject><Students name="3r ESO C"></Students><Room name="18"></Room>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 2nBtx-2"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Visual i Plàstica"></Subject><Students name="3r ESO A"></Students><Room name="18"></Room>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Visual i Plàstica"></Subject><Students name="3r ESO C"></Students><Room name="18"></Room>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Eva González">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Anglès"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Anglès"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="1r ESO D GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="1r ESO C GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="1r ESO A GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Anglès"></Subject><Students name="1r ESO C GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="RCP"></Subject>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="1r ESO D GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="1r ESO B GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="1r ESO A GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="1r ESO A GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Anglès"></Subject><Students name="1r ESO B GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Anglès"></Subject><Students name="1r ESO C GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Anglès"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="1r ESO D GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Anglès"></Subject><Students name="1r ESO B GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Anglès"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Anglès"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Filosofia 2">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 2nBtx-1"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Opt 2nBtx-1"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Gema Ramos">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Anglès"></Subject><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Anglès"></Subject><Students name="3r ESO B GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="3r ESO C GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="3r ESO A GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Anglès"></Subject><Students name="3r ESO A GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Anglès"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="3r ESO B GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Anglès"></Subject><Students name="3r ESO C GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Anglès"></Subject><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="3r ESO B GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Anglès"></Subject><Students name="3r ESO A GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Anglès"></Subject><Students name="3r ESO B GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="3r ESO C GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="3r ESO C GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Tutoria"></Subject><Students name="3r ESO C"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="3r ESO A GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Guillem Guerao">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Tutoria"></Subject><Students name="1BTX-YTH"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ciències Terra"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ciències Terra"></Subject><Students name="1BTX-YTH"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ciències Terra"></Subject><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Física/Ciències Terra II"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ciències Terra"></Subject><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Física/Ciències Terra II"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Ciències Terra"></Subject><Students name="1BTX-YTH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Física/Ciències Terra II"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ciències Terra"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Física/Ciències Terra II"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Irene Ribas">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ciències Experimentals"></Subject><Students name="2n ESO D"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO C"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO D"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 1nBtx-2"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO D"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Ciències Experimentals"></Subject><Students name="2n ESO D"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Opt 1nBtx-1"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ciències Experimentals"></Subject><Students name="2n ESO C"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 1nBtx-1"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Ciències Experimentals"></Subject><Students name="2n ESO C"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 1nBtx-2"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tutoria"></Subject><Students name="2n ESO D"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO C"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Joan López">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="4t ESO C GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="4t ESO A GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="4t ESO D GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="1BTX-YTH"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="4t ESO A GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="4t ESO B GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Tutoria"></Subject><Students name="4t ESO D"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="1BTX-YTH"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="4t ESO D GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="4t ESO D GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="4t ESO B GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="4t ESO A GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="4t ESO C GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="4t ESO B GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="4t ESO C GR"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Jordi Planas">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="TI/Grec/Eco"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Tecnologia"></Subject><Students name="1r ESO C"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO B"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO A"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Tecnologia"></Subject><Students name="1r ESO B"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO C"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="TI/Grec/Eco"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tecnologia"></Subject><Students name="1r ESO D"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO B"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO D"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="TI/Grec/Eco"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO C"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Tecnologia"></Subject><Students name="1r ESO A"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO D"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO A"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="TI/Grec/Eco"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Jordi Tel">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="TI/Grec/Eco"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Economia de l&apos;Empresa"></Subject><Students name="2n Batx Social"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="TI/Grec/Eco"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Economia de l&apos;Empresa"></Subject><Students name="2n Batx Social"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="TI/Grec/Eco"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Economia de l&apos;Empresa"></Subject><Students name="2n Batx Social"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Economia de l&apos;Empresa"></Subject><Students name="2n Batx Social"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="TI/Grec/Eco"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Josep Lluís Negreira">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Ciències Socials"></Subject><Students name="4t ESO B"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ciències Socials"></Subject><Students name="4t ESO A"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Història 2n batx"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Ciències Socials"></Subject><Students name="4t ESO C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ciències Socials"></Subject><Students name="4t ESO A"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ciències Socials"></Subject><Students name="4t ESO B"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="RCP"></Subject>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Història 2n batx"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ciències Socials"></Subject><Students name="4t ESO B"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ciències Socials"></Subject><Students name="4t ESO C"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Història 2n batx"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ciències Socials"></Subject><Students name="4t ESO A"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ciències Socials"></Subject><Students name="4t ESO C"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Josep Mª Álvarez">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="1r ESO A GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n ESO B GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n ESO C GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n ESO B GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n ESO C GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="1r ESO B GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Tutoria"></Subject><Students name="2n ESO A"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n ESO D GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n ESO C GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n ESO A GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="1r ESO B GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n ESO D GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n ESO B GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n ESO A GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="1r ESO A GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="1r ESO B GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n ESO A GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="1r ESO A GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n ESO D GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Júlia López">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Història 2n batx"></Subject><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Social"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Geografia-Història"></Subject><Students name="3r ESO B"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Geografia-Història"></Subject><Students name="3r ESO A"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Hª de l&apos;Art"></Subject><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Geografia-Història"></Subject><Students name="3r ESO C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Geografia-Història"></Subject><Students name="3r ESO B"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Geografia-Història"></Subject><Students name="3r ESO A"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Hª de l&apos;Art"></Subject><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Geografia-Història"></Subject><Students name="3r ESO D"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Geografia-Història"></Subject><Students name="3r ESO C"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Història 2n batx"></Subject><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Social"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Geografia-Història"></Subject><Students name="3r ESO D"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Hª de l&apos;Art"></Subject><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Geografia-Història"></Subject><Students name="3r ESO B"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Geografia-Història"></Subject><Students name="3r ESO A"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Història 2n batx"></Subject><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Social"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Geografia-Història"></Subject><Students name="3r ESO D"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Hª de l&apos;Art"></Subject><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Tutoria"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Geografia-Història"></Subject><Students name="3r ESO C"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Laia Navas">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="LL. Castellana"></Subject><Students name="3r ESO C GF"></Students><Students name="3r ESO D GF"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 2nBtx-1"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="1r ESO C GF"></Students><Students name="1r ESO D GF"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO C GF"></Students><Students name="2n ESO D GF"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 2nBtx-2"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="LL. Castellana"></Subject><Students name="2n ESO C GF"></Students><Students name="2n ESO D GF"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="1r ESO C GF"></Students><Students name="1r ESO D GF"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="LL. Castellana"></Subject><Students name="4t ESO B GF"></Students><Students name="4t ESO C GF"></Students><Students name="4t ESO D GF"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO C GF"></Students><Students name="2n ESO D GF"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="LL. Castellana"></Subject><Students name="3r ESO C GF"></Students><Students name="3r ESO D GF"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Opt 2nBtx-1"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="LL. Castellana"></Subject><Students name="4t ESO B GF"></Students><Students name="4t ESO C GF"></Students><Students name="4t ESO D GF"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="LL. Castellana"></Subject><Students name="4t ESO B GF"></Students><Students name="4t ESO C GF"></Students><Students name="4t ESO D GF"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO C GF"></Students><Students name="2n ESO D GF"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO C GF"></Students><Students name="2n ESO D GF"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 2nBtx-2"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="1r ESO C GF"></Students><Students name="1r ESO D GF"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="LL. Castellana"></Subject><Students name="3r ESO C GF"></Students><Students name="3r ESO D GF"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="LL. Castellana"></Subject><Students name="2n ESO C GF"></Students><Students name="2n ESO D GF"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="RGF"></Subject>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="LL. Castellana"></Subject><Students name="2n ESO C GF"></Students><Students name="2n ESO D GF"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Mara Perís">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Marc González">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Educació Física"></Subject><Students name="4t ESO D"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Educació Física"></Subject><Students name="1BTX-YTH"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Educació Física"></Subject><Students name="4t ESO B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Educació Física"></Subject><Students name="4t ESO D"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Educació Física"></Subject><Students name="4t ESO C"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Educació Física"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Educació Física"></Subject><Students name="4t ESO C"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Educació Física"></Subject><Students name="4t ESO A"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Tutoria"></Subject><Students name="4t ESO A"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Educació Física"></Subject><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Educació Física"></Subject><Students name="4t ESO A"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Educació Física"></Subject><Students name="1BTX-YTH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Educació Física"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Educació Física"></Subject><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Educació Física"></Subject><Students name="4t ESO B"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Marc Pomerol">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Música"></Subject><Students name="2n ESO C"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Música"></Subject><Students name="2n ESO A"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 2 "></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Música"></Subject><Students name="2n ESO D"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Música"></Subject><Students name="2n ESO B"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Música"></Subject><Students name="2n ESO D"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Música"></Subject><Students name="2n ESO B"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Música"></Subject><Students name="1r ESO A"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Opt.Franja 2 "></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Música"></Subject><Students name="1r ESO A"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Música"></Subject><Students name="2n ESO A"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt.Franja 2 "></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Música"></Subject><Students name="2n ESO C"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Maria José Blasco">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="RCP"></Subject>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Maria Teresa Peiró">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="LL. Castellana"></Subject><Students name="2n ESO C GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="LL. Castellana"></Subject><Students name="2n ESO A GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 1nBtx-2"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="LL. Castellana"></Subject><Students name="2n ESO A GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="LL. Castellana"></Subject><Students name="2n ESO B GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="LL. Castellana"></Subject><Students name="2n ESO D GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Opt 1nBtx-1"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="LL. Castellana"></Subject><Students name="2n ESO D GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="LL. Castellana"></Subject><Students name="2n ESO A GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 1nBtx-1"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="LL. Castellana"></Subject><Students name="2n ESO C GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 1nBtx-2"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="LL. Castellana"></Subject><Students name="2n ESO B GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="LL. Castellana"></Subject><Students name="2n ESO D GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="LL. Castellana"></Subject><Students name="2n ESO B GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="LL. Castellana"></Subject><Students name="2n ESO C GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Marta Mira">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Anglès"></Subject><Students name="4t ESO B GF"></Students><Students name="4t ESO C GF"></Students><Students name="4t ESO D GF"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO C GF"></Students><Students name="3r ESO D GF"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO B GF"></Students><Students name="4t ESO C GF"></Students><Students name="4t ESO D GF"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Educació Física"></Subject><Students name="2n ESO B"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Educació Física"></Subject><Students name="2n ESO C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO B GF"></Students><Students name="4t ESO C GF"></Students><Students name="4t ESO D GF"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Educació Física"></Subject><Students name="2n ESO A"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO C GF"></Students><Students name="3r ESO D GF"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Educació Física"></Subject><Students name="2n ESO C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Anglès"></Subject><Students name="4t ESO B GF"></Students><Students name="4t ESO C GF"></Students><Students name="4t ESO D GF"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO C GF"></Students><Students name="3r ESO D GF"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Educació Física"></Subject><Students name="2n ESO D"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Educació Física"></Subject><Students name="2n ESO D"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Educació Física"></Subject><Students name="2n ESO B"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Anglès"></Subject><Students name="4t ESO B GF"></Students><Students name="4t ESO C GF"></Students><Students name="4t ESO D GF"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO B GF"></Students><Students name="4t ESO C GF"></Students><Students name="4t ESO D GF"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Anglès"></Subject><Students name="4t ESO B GF"></Students><Students name="4t ESO C GF"></Students><Students name="4t ESO D GF"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Educació Física"></Subject><Students name="2n ESO A"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="RGF"></Subject>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO C GF"></Students><Students name="3r ESO D GF"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO B GF"></Students><Students name="4t ESO C GF"></Students><Students name="4t ESO D GF"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Mingo Peiró">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="4t ESO A GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Anglès"></Subject><Students name="4t ESO B GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Anglès"></Subject><Students name="4t ESO D GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Anglès"></Subject><Students name="4t ESO C GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Anglès"></Subject><Students name="4t ESO C GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Tutoria"></Subject><Students name="4t ESO B"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="4t ESO D GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="1BTX-YTH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Anglès"></Subject><Students name="4t ESO A GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Anglès"></Subject><Students name="4t ESO B GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="4t ESO C GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="4t ESO B GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Anglès"></Subject><Students name="1BTX-YTH"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Anglès"></Subject><Students name="4t ESO D GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Anglès"></Subject><Students name="4t ESO C GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="4t ESO A GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="4t ESO D GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Anglès"></Subject><Students name="4t ESO B GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Anglès"></Subject><Students name="1BTX-YTH"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="4t ESO A GR"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Mireia Garcia">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="TI/Grec/Eco"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="LLat/MAT/MATS"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="TI/Grec/Eco"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="LLat/MAT/MATS"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="TI/Grec/Eco"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="LLat/MAT/MATS"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="TI/Grec/Eco"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="LLat/MAT/MATS"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Mireia Pla">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n ESO C GF"></Students><Students name="2n ESO D GF"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="4t ESO B GF"></Students><Students name="4t ESO C GF"></Students><Students name="4t ESO D GF"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="3r ESO C GF"></Students><Students name="3r ESO D GF"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="3r ESO C GF"></Students><Students name="3r ESO D GF"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="3r ESO C GF"></Students><Students name="3r ESO D GF"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n ESO C GF"></Students><Students name="2n ESO D GF"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="3r ESO C GF"></Students><Students name="3r ESO D GF"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="1r ESO C GF"></Students><Students name="1r ESO D GF"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="3r ESO C GF"></Students><Students name="3r ESO D GF"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="1r ESO C GF"></Students><Students name="1r ESO D GF"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n ESO C GF"></Students><Students name="2n ESO D GF"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="4t ESO B GF"></Students><Students name="4t ESO C GF"></Students><Students name="4t ESO D GF"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="3r ESO C GF"></Students><Students name="3r ESO D GF"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="4t ESO B GF"></Students><Students name="4t ESO C GF"></Students><Students name="4t ESO D GF"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="1r ESO C GF"></Students><Students name="1r ESO D GF"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Anglès"></Subject><Students name="3r ESO C GF"></Students><Students name="3r ESO D GF"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="RGF"></Subject>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Montse Baiget">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="2n ESO A GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="2n ESO D GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="2n ESO B GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="2n ESO D GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Anglès"></Subject><Students name="2n ESO A GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Anglès"></Subject><Students name="2n ESO C GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="2n ESO C GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Anglès"></Subject><Students name="2n ESO D GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="2n ESO B GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="2n ESO B GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Anglès"></Subject><Students name="2n ESO A GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Anglès"></Subject><Students name="2n ESO D GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Anglès"></Subject><Students name="2n ESO C GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Anglès"></Subject><Students name="2n ESO B GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Anglès"></Subject><Students name="2n ESO C GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Anglès"></Subject><Students name="2n ESO A GR"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Montse Guillen">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="1r ESO D GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="1r ESO C GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="1r ESO D GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="1r ESO C GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="1r ESO D GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="1r ESO C GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Mª Antònia Enebral">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO C GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="LLat/MAT/MATS"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO D GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO B GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO B GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO C GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="LLat/MAT/MATS"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO A GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO A GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO D GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO C GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO B GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO A GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO D GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="LLat/MAT/MATS"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO D GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO B GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO C GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="3r ESO A GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="LLat/MAT/MATS"></Subject><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Núria Agut">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="3r ESO A GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="3r ESO B GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="3r ESO A GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="3r ESO D GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="3r ESO C GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ll.Catalana "></Subject><Students name="3r ESO A GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="3r ESO C GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="3r ESO D GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="3r ESO B GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ll.Catalana "></Subject><Students name="3r ESO D GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="3r ESO C GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Ll.Catalana "></Subject><Students name="3r ESO B GR"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Núria Lacorte">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Tutoria"></Subject><Students name="2n ESO B"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ciències Experimentals"></Subject><Students name="2n ESO A"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Física/Ciències Terra II"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Ciències Experimentals"></Subject><Students name="2n ESO A"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO B"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO B"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Física/Ciències Terra II"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Física/Ciències Terra II"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ciències Experimentals"></Subject><Students name="2n ESO B"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO A"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ciències Experimentals"></Subject><Students name="2n ESO B"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Física/Ciències Terra II"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Tecno-Experim"></Subject><Students name="2n ESO A"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Pascual Burro">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Cultura i Valors Ètics"></Subject><Students name="2n ESO A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Cultura i Valors Ètics"></Subject><Students name="2n ESO C"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Cultura i Valors Ètics"></Subject><Students name="2n ESO B"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Cultura i Valors Ètics"></Subject><Students name="2n ESO D"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Cultura i Valors Ètics"></Subject><Students name="4t ESO A"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Pedro Lorenzo">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Tecno-FiQ"></Subject><Students name="3r ESO B"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Tecno-FiQ"></Subject><Students name="3r ESO D"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tecnologia Industrial"></Subject><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Tecno Biogeo"></Subject><Students name="3r ESO C"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tecnologia Industrial"></Subject><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Tecnologia"></Subject><Students name="3r ESO C"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Tutoria"></Subject><Students name="3r ESO B"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Tecno Biogeo"></Subject><Students name="3r ESO B"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Tecno-FiQ"></Subject><Students name="3r ESO A"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tecnologia Industrial"></Subject><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Tecno-FiQ"></Subject><Students name="3r ESO C"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Tecnologia"></Subject><Students name="3r ESO D"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Tecno Biogeo"></Subject><Students name="3r ESO A"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Tecnologia"></Subject><Students name="3r ESO A"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Tecnologia"></Subject><Students name="3r ESO B"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Tecno Biogeo"></Subject><Students name="3r ESO D"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tecnologia Industrial"></Subject><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Pere Saborit">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Hª Filosofia 2n batx"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 1nBtx-2"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Cultura i Valors Ètics"></Subject><Students name="4t ESO D"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Hª Filosofia 2n batx"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Cultura i Valors Ètics"></Subject><Students name="4t ESO C"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Hª Filosofia 2n batx"></Subject><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Social"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Filosofia"></Subject><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Filosofia"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Cultura i Valors Ètics"></Subject><Students name="4t ESO B"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Filosofia"></Subject><Students name="1BTX-YTH"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Hª Filosofia 2n batx"></Subject><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Social"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Hª Filosofia 2n batx"></Subject><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Social"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 1nBtx-2"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Filosofia"></Subject><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Cultura i Valors Ètics"></Subject><Students name="4t ESO A"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Hª Filosofia 2n batx"></Subject><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Filosofia"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Filosofia"></Subject><Students name="1BTX-YTH"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Pili Torres">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Tecno-FiQ"></Subject><Students name="3r ESO B"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Tecno-FiQ"></Subject><Students name="3r ESO D"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 2nBtx-1"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Física i Química 3r ESO"></Subject><Students name="3r ESO A"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Física i Química 3r ESO"></Subject><Students name="3r ESO C"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 2nBtx-2"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="FiQ-BioGeo 3r"></Subject><Students name="3r ESO B"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Opt 2nBtx-1"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Tecno-FiQ"></Subject><Students name="3r ESO A"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tutoria"></Subject><Students name="3r ESO A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Tecno-FiQ"></Subject><Students name="3r ESO C"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Física i Química 3r ESO"></Subject><Students name="3r ESO D"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="FiQ-BioGeo 3r"></Subject><Students name="3r ESO C"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="FiQ-BioGeo 3r"></Subject><Students name="3r ESO D"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 2nBtx-2"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Física i Química 3r ESO"></Subject><Students name="3r ESO B"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 1"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="FiQ-BioGeo 3r"></Subject><Students name="3r ESO A"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Quim Oltra">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ciències Socials"></Subject><Students name="2n ESO B"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ciències Socials"></Subject><Students name="2n ESO D"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ciències Socials"></Subject><Students name="2n ESO C"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ciències Socials"></Subject><Students name="2n ESO B"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ciències Socials"></Subject><Students name="4t ESO D"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Ciències Socials"></Subject><Students name="2n ESO C"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Ciències Socials"></Subject><Students name="2n ESO A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ciències Socials"></Subject><Students name="2n ESO D"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Ciències Socials"></Subject><Students name="4t ESO D"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Ciències Socials"></Subject><Students name="2n ESO A"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Ciències Socials"></Subject><Students name="2n ESO C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     <Subject name="Ciències Socials"></Subject><Students name="2n ESO A"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tutoria"></Subject><Students name="2n ESO C"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Fís/CT/HMC/EdE"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Ciències Socials"></Subject><Students name="2n ESO D"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Ciències Socials"></Subject><Students name="4t ESO D"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Ciències Socials"></Subject><Students name="2n ESO B"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Ruth Rillo">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO D GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO C GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO B GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO A GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO B GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO A GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="RCP"></Subject>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO C GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO A GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO D GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO B GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO C GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO B GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO D GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO C GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO A GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Matemàtiques"></Subject><Students name="4t ESO D GR"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Susana Yuguero">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 2nBtx-2"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Opt 1nBtx-1"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 1nBtx-1"></Subject><Students name="1BTX-XC"></Students><Students name="1BTX-YTH"></Students><Students name="1BTX-ZSH"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 2nBtx-2"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 3r"></Subject><Students name="3r ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Optativa 1r"></Subject><Students name="1r ESO"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Vicenç Valcárcel">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Visual i Plàstica"></Subject><Students name="1r ESO C"></Students><Room name="18"></Room>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Visual i Plàstica"></Subject><Students name="1r ESO D"></Students><Room name="18"></Room>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="RCP"></Subject>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Visual i Plàstica"></Subject><Students name="1r ESO B"></Students><Room name="18"></Room>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Visual i Plàstica"></Subject><Students name="1r ESO B"></Students><Room name="18"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Visual i Plàstica"></Subject><Students name="1r ESO A"></Students><Room name="18"></Room>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Visual i Plàstica"></Subject><Students name="1r ESO A"></Students><Room name="18"></Room>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Visual i Plàstica"></Subject><Students name="1r ESO D"></Students><Room name="18"></Room>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Visual i Plàstica"></Subject><Students name="1r ESO C"></Students><Room name="18"></Room>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Xavier Cano">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 2nBtx-1"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 2 "></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt 2nBtx-2"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="RCP"></Subject>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Opt 2nBtx-1"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Opt.Franja 2 "></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt 2nBtx-2"></Subject><Students name="2n Batx Social"></Students><Students name="2n Batx Humanístic"></Students><Students name="2n Batx Científic"></Students><Students name="2n Batx Tecnològic"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Opt.Franja 2 "></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Àngels Bayo">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Bio-Geo"></Subject><Students name="3r ESO C"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Biologia"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Bio-Geo"></Subject><Students name="3r ESO D"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Biologia"></Subject><Students name="2n Batx Científic"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Tecno Biogeo"></Subject><Students name="3r ESO C"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Biologia"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Biologia"></Subject><Students name="2n Batx Científic"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="FiQ-BioGeo 3r"></Subject><Students name="3r ESO B"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Tecno Biogeo"></Subject><Students name="3r ESO B"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Biologia"></Subject><Students name="2n Batx Científic"></Students>
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Biologia"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="FiQ-BioGeo 3r"></Subject><Students name="3r ESO C"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="FiQ-BioGeo 3r"></Subject><Students name="3r ESO D"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Bio-Geo"></Subject><Students name="3r ESO B"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Tecno Biogeo"></Subject><Students name="3r ESO D"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Biologia"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Biologia"></Subject><Students name="2n Batx Científic"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Àngels Duch">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO D GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO B GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO A GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO C GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO D GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO A GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO B GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO A GR"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO C GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO C GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO D GR"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO B GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO A GR"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO C GR"></Students>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO D GR"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Optativa 2n"></Subject><Students name="2n ESO"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Matemàtiques"></Subject><Students name="2n ESO B GR"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Àngels Llop">
+   <Day name="Dilluns">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Bio-Geo"></Subject><Students name="1r ESO B"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Biologia"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Tutoria"></Subject><Students name="1r ESO A"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO B"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO A"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Dimarts">
+    <Hour name="08:00">
+     <Subject name="Bio-Geo"></Subject><Students name="3r ESO A"></Students>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Biologia"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     <Subject name="Bio-Geo"></Subject><Students name="1r ESO B"></Students>
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Bio-Geo"></Subject><Students name="1r ESO A"></Students>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dimecres">
+    <Hour name="08:00">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO B"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+    <Hour name="13:30">
+     
+    </Hour>
+   </Day>
+   <Day name="Dijous">
+    <Hour name="08:00">
+     
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Biologia"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     <Subject name="Tecno Biogeo"></Subject><Students name="3r ESO A"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="Opt.Franja 3"></Subject><Students name="4t ESO"></Students>
+    </Hour>
+   </Day>
+   <Day name="Divendres">
+    <Hour name="08:00">
+     <Subject name="Tecno Biogeo"></Subject><Students name="1r ESO A"></Students><Room name="Tecnologia 1"></Room>
+    </Hour>
+    <Hour name="09:00">
+     <Subject name="Bio-Geo"></Subject><Students name="1r ESO A"></Students>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="10:10">
+     
+    </Hour>
+    <Hour name="11:10">
+     
+    </Hour>
+    <Hour name="12:10">
+     
+    </Hour>
+    <Hour name="12:30">
+     <Subject name="Biologia"></Subject><Students name="1BTX-XC"></Students>
+    </Hour>
+    <Hour name="13:30">
+     <Subject name="FiQ-BioGeo 3r"></Subject><Students name="3r ESO A"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+</Teachers_Timetable>

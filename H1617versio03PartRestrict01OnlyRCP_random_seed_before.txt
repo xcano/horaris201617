@@ -1,0 +1,5 @@
+﻿La generació ha començat el: 07/07/16 1.19
+
+La llavor aleatòria al començament de la generació és: X=1258337791, Y=1467148946
+
+Aquest fitxer va ser automàticament generat per FET 5.29.3.

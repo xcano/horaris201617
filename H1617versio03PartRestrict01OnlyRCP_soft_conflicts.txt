@@ -1,0 +1,9 @@
+﻿Conflictes suaus de H1617versio03PartRestrict01OnlyRCP.fet
+Generat amb FET 5.29.3 el 07/07/16 1.19
+
+Total de conflictes suaus: 0
+
+Llista de conflictes suaus (en ordre decreixent):
+
+
+Final del fitxer.
