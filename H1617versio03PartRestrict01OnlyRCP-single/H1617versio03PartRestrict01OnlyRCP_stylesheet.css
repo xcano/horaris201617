@@ -1,0 +1,1199 @@
+﻿@charset "UTF-8";
+
+/* Full d'estil CSS de H1617versio03PartRestrict01OnlyRCP.fet
+   Full d'estil generat amb FET 5.29.3 el 07/07/16 0.36 */
+
+/* Per fer un salt de pàgina només cada dos horaris, esborra "page-break-before: always;" in "table.even_table". */
+/* Per amagar un element, simplement escriu la següent frase en aquell element: "display:none;" (sense cometes). */
+
+p.back {
+  margin-top: 4ex;
+  margin-bottom: 5ex;
+}
+
+table {
+  text-align: center;
+}
+
+table.odd_table {
+  page-break-before: always;
+}
+
+table.even_table {
+  page-break-before: always;
+}
+
+table.detailed {
+  margin-left:auto; margin-right:auto;
+  text-align: center;
+  border: 0px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+caption {
+
+}
+
+thead {
+
+}
+
+/* Alguns programes importen "tfoot" incorrectament. Per tant, nosaltres usem "tr.foot" en lloc de "tfoot". */
+
+tr.foot {
+
+}
+
+tbody {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+td.detailed {
+  border: 1px dashed silver;
+  border-bottom: 0;
+  border-top: 0;
+}
+
+th.xAxis {
+/* width: 8em; */
+}
+
+th.yAxis {
+  height: 8ex;
+}
+
+span.s_1 { /* subject Anglès */
+
+}
+
+span.s_2 { /* subject Arts Escèniques */
+
+}
+
+span.s_3 { /* subject Bio-Geo */
+
+}
+
+span.s_4 { /* subject Bio-Geo 3r ESO */
+
+}
+
+span.s_5 { /* subject Biologia */
+
+}
+
+span.s_6 { /* subject Ciències Experimentals */
+
+}
+
+span.s_7 { /* subject Ciències Socials */
+
+}
+
+span.s_8 { /* subject Ciències Terra */
+
+}
+
+span.s_9 { /* subject Cultura i Valors Ètics */
+
+}
+
+span.s_10 { /* subject Dibuix Tècnic */
+
+}
+
+span.s_11 { /* subject Economia */
+
+}
+
+span.s_12 { /* subject Economia de l'Empresa */
+
+}
+
+span.s_13 { /* subject Economia de l'empresa-HMC */
+
+}
+
+span.s_14 { /* subject Educació Física */
+
+}
+
+span.s_15 { /* subject Electrotècnia */
+
+}
+
+span.s_16 { /* subject FiQ-BioGeo 3r */
+
+}
+
+span.s_17 { /* subject Filosofia */
+
+}
+
+span.s_18 { /* subject Fisica I- CCTerra I Francès-Lit.Cast A */
+
+}
+
+span.s_19 { /* subject Francès */
+
+}
+
+span.s_20 { /* subject Francès 2n batx */
+
+}
+
+span.s_21 { /* subject Fís/CT/HMC/EdE */
+
+}
+
+span.s_22 { /* subject Física */
+
+}
+
+span.s_23 { /* subject Física 1r batx */
+
+}
+
+span.s_24 { /* subject Física I-CCTerra-Psico-Lit.Cast B */
+
+}
+
+span.s_25 { /* subject Física i Química 3r ESO */
+
+}
+
+span.s_26 { /* subject Física/Ciències Terra II */
+
+}
+
+span.s_27 { /* subject Geografia */
+
+}
+
+span.s_28 { /* subject Geografia-Història */
+
+}
+
+span.s_29 { /* subject Grec */
+
+}
+
+span.s_30 { /* subject Grec II */
+
+}
+
+span.s_31 { /* subject Història 2n batx */
+
+}
+
+span.s_32 { /* subject Hª Filosofia 1r batx */
+
+}
+
+span.s_33 { /* subject Hª Filosofia 2n batx */
+
+}
+
+span.s_34 { /* subject Hª Món Contemporani */
+
+}
+
+span.s_35 { /* subject Hª de l'Art */
+
+}
+
+span.s_36 { /* subject Hª i Cultura 2n */
+
+}
+
+span.s_37 { /* subject Hª i Cultura 4t */
+
+}
+
+span.s_38 { /* subject Instrumentals */
+
+}
+
+span.s_39 { /* subject LL. Castellana */
+
+}
+
+span.s_40 { /* subject LLat/MAT/MATS */
+
+}
+
+span.s_41 { /* subject Lit. Castellana */
+
+}
+
+span.s_42 { /* subject Lit.Cast-Francès */
+
+}
+
+span.s_43 { /* subject Lit.cast-Psicologia */
+
+}
+
+span.s_44 { /* subject Ll.Catalana  */
+
+}
+
+span.s_45 { /* subject Llatí */
+
+}
+
+span.s_46 { /* subject Llatí 2n batx */
+
+}
+
+span.s_47 { /* subject Matemàtiques */
+
+}
+
+span.s_48 { /* subject Matemàtiques 1r batx */
+
+}
+
+span.s_49 { /* subject Matemàtiques 2n batx */
+
+}
+
+span.s_50 { /* subject Matemàtiques CCSS */
+
+}
+
+span.s_51 { /* subject Matemàtiques CCSS 1r batx */
+
+}
+
+span.s_52 { /* subject Música */
+
+}
+
+span.s_53 { /* subject Opt 1nBtx-1 */
+
+}
+
+span.s_54 { /* subject Opt 1nBtx-2 */
+
+}
+
+span.s_55 { /* subject Opt 2nBtx-1 */
+
+}
+
+span.s_56 { /* subject Opt 2nBtx-2 */
+
+}
+
+span.s_57 { /* subject Opt.Franja 1 */
+
+}
+
+span.s_58 { /* subject Opt.Franja 2  */
+
+}
+
+span.s_59 { /* subject Opt.Franja 3 */
+
+}
+
+span.s_60 { /* subject Optativa 1r */
+
+}
+
+span.s_61 { /* subject Optativa 2n */
+
+}
+
+span.s_62 { /* subject Optativa 2n batxillerat */
+
+}
+
+span.s_63 { /* subject Optativa 3r */
+
+}
+
+span.s_64 { /* subject Psicologia */
+
+}
+
+span.s_65 { /* subject Psicologia 2n batx */
+
+}
+
+span.s_66 { /* subject Química */
+
+}
+
+span.s_67 { /* subject Química 2n batx */
+
+}
+
+span.s_68 { /* subject RCP */
+
+}
+
+span.s_69 { /* subject RGEP */
+
+}
+
+span.s_70 { /* subject RGF */
+
+}
+
+span.s_71 { /* subject Religió/Cult i Valors Ètics */
+
+}
+
+span.s_72 { /* subject Sociologia */
+
+}
+
+span.s_73 { /* subject TI/Grec/Eco */
+
+}
+
+span.s_74 { /* subject Tecno Biogeo */
+
+}
+
+span.s_75 { /* subject Tecno-Bio-geo 3r */
+
+}
+
+span.s_76 { /* subject Tecno-Experim */
+
+}
+
+span.s_77 { /* subject Tecno-FiQ */
+
+}
+
+span.s_78 { /* subject Tecnologia */
+
+}
+
+span.s_79 { /* subject Tecnologia Industrial */
+
+}
+
+span.s_80 { /* subject Tecnologia industrial 1r Batx */
+
+}
+
+span.s_81 { /* subject Tutoria */
+
+}
+
+span.s_82 { /* subject Visual i Plàstica */
+
+}
+
+span.s_83 { /* subject eco emp-HMC */
+
+}
+
+span.s_84 { /* subject Ètica */
+
+}
+
+span.at_1 { /* activity tag R.C.P. */
+
+}
+
+span.at_2 { /* activity tag R.Grup Flexible */
+
+}
+
+span.at_3 { /* activity tag R. GEP */
+
+}
+
+span.ss_1 { /* students set 1r ESO */
+
+}
+
+span.ss_2 { /* students set 1r ESO A */
+
+}
+
+span.ss_3 { /* students set 1r ESO A GR */
+
+}
+
+span.ss_5 { /* students set 1r ESO B */
+
+}
+
+span.ss_6 { /* students set 1r ESO B GR */
+
+}
+
+span.ss_8 { /* students set 1r ESO C */
+
+}
+
+span.ss_9 { /* students set 1r ESO C GR */
+
+}
+
+span.ss_10 { /* students set 1r ESO C GF */
+
+}
+
+span.ss_11 { /* students set 1r ESO D */
+
+}
+
+span.ss_12 { /* students set 1r ESO D GR */
+
+}
+
+span.ss_13 { /* students set 1r ESO D GF */
+
+}
+
+span.ss_3 { /* students set 1r ESO A GR */
+
+}
+
+span.ss_6 { /* students set 1r ESO B GR */
+
+}
+
+span.ss_9 { /* students set 1r ESO C GR */
+
+}
+
+span.ss_12 { /* students set 1r ESO D GR */
+
+}
+
+span.ss_10 { /* students set 1r ESO C GF */
+
+}
+
+span.ss_13 { /* students set 1r ESO D GF */
+
+}
+
+span.ss_16 { /* students set 2n Batx Científic */
+
+}
+
+span.ss_19 { /* students set 2n Batx Humanístic */
+
+}
+
+span.ss_22 { /* students set 2n Batx Social */
+
+}
+
+span.ss_25 { /* students set 2n Batx Tecnològic */
+
+}
+
+span.ss_28 { /* students set 2n ESO */
+
+}
+
+span.ss_29 { /* students set 2n ESO A */
+
+}
+
+span.ss_30 { /* students set 2n ESO A GR */
+
+}
+
+span.ss_32 { /* students set 2n ESO B */
+
+}
+
+span.ss_33 { /* students set 2n ESO B GR */
+
+}
+
+span.ss_35 { /* students set 2n ESO C */
+
+}
+
+span.ss_36 { /* students set 2n ESO C GR */
+
+}
+
+span.ss_37 { /* students set 2n ESO C GF */
+
+}
+
+span.ss_38 { /* students set 2n ESO D */
+
+}
+
+span.ss_39 { /* students set 2n ESO D GR */
+
+}
+
+span.ss_40 { /* students set 2n ESO D GF */
+
+}
+
+span.ss_30 { /* students set 2n ESO A GR */
+
+}
+
+span.ss_33 { /* students set 2n ESO B GR */
+
+}
+
+span.ss_36 { /* students set 2n ESO C GR */
+
+}
+
+span.ss_39 { /* students set 2n ESO D GR */
+
+}
+
+span.ss_37 { /* students set 2n ESO C GF */
+
+}
+
+span.ss_40 { /* students set 2n ESO D GF */
+
+}
+
+span.ss_43 { /* students set 3r ESO */
+
+}
+
+span.ss_44 { /* students set 3r ESO A */
+
+}
+
+span.ss_45 { /* students set 3r ESO A GR */
+
+}
+
+span.ss_47 { /* students set 3r ESO B */
+
+}
+
+span.ss_48 { /* students set 3r ESO B GR */
+
+}
+
+span.ss_50 { /* students set 3r ESO C */
+
+}
+
+span.ss_51 { /* students set 3r ESO C GR */
+
+}
+
+span.ss_52 { /* students set 3r ESO C GF */
+
+}
+
+span.ss_53 { /* students set 3r ESO D */
+
+}
+
+span.ss_54 { /* students set 3r ESO D GR */
+
+}
+
+span.ss_55 { /* students set 3r ESO D GF */
+
+}
+
+span.ss_45 { /* students set 3r ESO A GR */
+
+}
+
+span.ss_48 { /* students set 3r ESO B GR */
+
+}
+
+span.ss_51 { /* students set 3r ESO C GR */
+
+}
+
+span.ss_54 { /* students set 3r ESO D GR */
+
+}
+
+span.ss_52 { /* students set 3r ESO C GF */
+
+}
+
+span.ss_55 { /* students set 3r ESO D GF */
+
+}
+
+span.ss_58 { /* students set 4t ESO */
+
+}
+
+span.ss_59 { /* students set 4t ESO A */
+
+}
+
+span.ss_60 { /* students set 4t ESO A GR */
+
+}
+
+span.ss_62 { /* students set 4t ESO B */
+
+}
+
+span.ss_63 { /* students set 4t ESO B GR */
+
+}
+
+span.ss_64 { /* students set 4t ESO B GF */
+
+}
+
+span.ss_65 { /* students set 4t ESO C */
+
+}
+
+span.ss_66 { /* students set 4t ESO C GR */
+
+}
+
+span.ss_67 { /* students set 4t ESO C GF */
+
+}
+
+span.ss_68 { /* students set 4t ESO D */
+
+}
+
+span.ss_69 { /* students set 4t ESO D GR */
+
+}
+
+span.ss_70 { /* students set 4t ESO D GF */
+
+}
+
+span.ss_60 { /* students set 4t ESO A GR */
+
+}
+
+span.ss_63 { /* students set 4t ESO B GR */
+
+}
+
+span.ss_66 { /* students set 4t ESO C GR */
+
+}
+
+span.ss_69 { /* students set 4t ESO D GR */
+
+}
+
+span.ss_64 { /* students set 4t ESO B GF */
+
+}
+
+span.ss_67 { /* students set 4t ESO C GF */
+
+}
+
+span.ss_70 { /* students set 4t ESO D GF */
+
+}
+
+span.ss_73 { /* students set 1BTX-XC */
+
+}
+
+span.ss_76 { /* students set 1BTX-YTH */
+
+}
+
+span.ss_79 { /* students set 1BTX-ZSH */
+
+}
+
+span.t_1 { /* teacher ANG5 */
+
+}
+
+span.t_2 { /* teacher Alexis Albelda */
+
+}
+
+span.t_3 { /* teacher Ana Segura */
+
+}
+
+span.t_4 { /* teacher Andrea Zamora */
+
+}
+
+span.t_5 { /* teacher Conxita Mañosa */
+
+}
+
+span.t_6 { /* teacher Cristina Martin */
+
+}
+
+span.t_7 { /* teacher Cristina Segura */
+
+}
+
+span.t_8 { /* teacher Diego Gámez */
+
+}
+
+span.t_9 { /* teacher EF 4 */
+
+}
+
+span.t_10 { /* teacher EXP7 */
+
+}
+
+span.t_11 { /* teacher Eduard Bartrina */
+
+}
+
+span.t_12 { /* teacher Enric Navarro */
+
+}
+
+span.t_13 { /* teacher Ernesto Chacón */
+
+}
+
+span.t_14 { /* teacher Estel·la Gili */
+
+}
+
+span.t_15 { /* teacher Eva Cazcarro */
+
+}
+
+span.t_16 { /* teacher Eva González */
+
+}
+
+span.t_17 { /* teacher Filosofia 2 */
+
+}
+
+span.t_18 { /* teacher Gema Ramos */
+
+}
+
+span.t_19 { /* teacher Guillem Guerao */
+
+}
+
+span.t_20 { /* teacher Irene Ribas */
+
+}
+
+span.t_21 { /* teacher Joan López */
+
+}
+
+span.t_22 { /* teacher Jordi Planas */
+
+}
+
+span.t_23 { /* teacher Jordi Tel */
+
+}
+
+span.t_24 { /* teacher Josep Lluís Negreira */
+
+}
+
+span.t_25 { /* teacher Josep Mª Álvarez */
+
+}
+
+span.t_26 { /* teacher Júlia López */
+
+}
+
+span.t_27 { /* teacher Laia Navas */
+
+}
+
+span.t_28 { /* teacher Mara Perís */
+
+}
+
+span.t_29 { /* teacher Marc González */
+
+}
+
+span.t_30 { /* teacher Marc Pomerol */
+
+}
+
+span.t_31 { /* teacher Maria José Blasco */
+
+}
+
+span.t_32 { /* teacher Maria Teresa Peiró */
+
+}
+
+span.t_33 { /* teacher Marta Mira */
+
+}
+
+span.t_34 { /* teacher Mingo Peiró */
+
+}
+
+span.t_35 { /* teacher Mireia Garcia */
+
+}
+
+span.t_36 { /* teacher Mireia Pla */
+
+}
+
+span.t_37 { /* teacher Montse Baiget */
+
+}
+
+span.t_38 { /* teacher Montse Guillen */
+
+}
+
+span.t_39 { /* teacher Mª Antònia Enebral */
+
+}
+
+span.t_40 { /* teacher Núria Agut */
+
+}
+
+span.t_41 { /* teacher Núria Lacorte */
+
+}
+
+span.t_42 { /* teacher Pascual Burro */
+
+}
+
+span.t_43 { /* teacher Pedro Lorenzo */
+
+}
+
+span.t_44 { /* teacher Pere Saborit */
+
+}
+
+span.t_45 { /* teacher Pili Torres */
+
+}
+
+span.t_46 { /* teacher Quim Oltra */
+
+}
+
+span.t_47 { /* teacher Ruth Rillo */
+
+}
+
+span.t_48 { /* teacher Susana Yuguero */
+
+}
+
+span.t_49 { /* teacher Vicenç Valcárcel */
+
+}
+
+span.t_50 { /* teacher Xavier Cano */
+
+}
+
+span.t_51 { /* teacher Àngels Bayo */
+
+}
+
+span.t_52 { /* teacher Àngels Duch */
+
+}
+
+span.t_53 { /* teacher Àngels Llop */
+
+}
+
+span.r_1 { /* room 0 */
+
+}
+
+span.r_2 { /* room 1 */
+
+}
+
+span.r_3 { /* room 11 */
+
+}
+
+span.r_4 { /* room 12 */
+
+}
+
+span.r_5 { /* room 13 */
+
+}
+
+span.r_6 { /* room 14 */
+
+}
+
+span.r_7 { /* room 15 */
+
+}
+
+span.r_8 { /* room 16 */
+
+}
+
+span.r_9 { /* room 17 */
+
+}
+
+span.r_10 { /* room 18 */
+
+}
+
+span.r_11 { /* room 2 */
+
+}
+
+span.r_12 { /* room 21 */
+
+}
+
+span.r_13 { /* room 22 */
+
+}
+
+span.r_14 { /* room 23 */
+
+}
+
+span.r_15 { /* room 24 */
+
+}
+
+span.r_16 { /* room 25 */
+
+}
+
+span.r_17 { /* room 26 */
+
+}
+
+span.r_18 { /* room 27 Música */
+
+}
+
+span.r_19 { /* room 28  */
+
+}
+
+span.r_20 { /* room 29 USEE */
+
+}
+
+span.r_21 { /* room 3 */
+
+}
+
+span.r_22 { /* room 30 */
+
+}
+
+span.r_23 { /* room 4 */
+
+}
+
+span.r_24 { /* room 5 */
+
+}
+
+span.r_25 { /* room 6 */
+
+}
+
+span.r_26 { /* room 7 */
+
+}
+
+span.r_27 { /* room Gimnàs */
+
+}
+
+span.r_28 { /* room Info 1 */
+
+}
+
+span.r_29 { /* room Info 2 */
+
+}
+
+span.r_30 { /* room Pista poliesportiva */
+
+}
+
+span.r_31 { /* room Tecnologia 1 */
+
+}
+
+span.r_32 { /* room Tecnologia 2 */
+
+}
+
+span.r_33 { /* room laboratori 1 */
+
+}
+
+span.r_34 { /* room laboratori 2 */
+
+}
+
+span.subject {
+
+}
+
+span.activitytag {
+
+}
+
+span.empty {
+  color: gray;
+}
+
+td.empty {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.notAvailable {
+  color: gray;
+}
+
+td.notAvailable {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.break {
+  color: gray;
+}
+
+td.break {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+tr.studentsset, div.studentsset {
+
+}
+
+tr.teacher, div.teacher {
+
+}
+
+tr.room, div.room {
+
+}
+
+tr.line0, div.line0 {
+  font-size: smaller;
+}
+
+tr.line1, div.line1 {
+
+}
+
+tr.line2, div.line2 {
+  font-size: smaller;
+  color: gray;
+}
+
+tr.line3, div.line3 {
+  font-size: smaller;
+  color: silver;
+}
+
+/* Dóna estil als períodes lliures dels professors */
+
+div.DESCRIPTION {
+  text-align: left;
+  font-size: smaller;
+}
+
+div.TEACHER_HAS_SINGLE_GAP {
+  color: black;
+}
+
+div.TEACHER_HAS_BORDER_GAP {
+  color: gray;
+}
+
+div.TEACHER_HAS_BIG_GAP {
+  color: silver;
+}
+
+div.TEACHER_MUST_COME_EARLIER {
+  color: purple;
+}
+
+div.TEACHER_MUST_COME_MUCH_EARLIER {
+  font-size: smaller;
+  color: fuchsia;
+}
+
+div.TEACHER_MUST_STAY_LONGER {
+  color: teal;
+}
+
+div.TEACHER_MUST_STAY_MUCH_LONGER {
+  font-size: smaller;
+  color: aqua;
+}
+
+div.TEACHER_HAS_A_FREE_DAY {
+  font-size: smaller;
+  color: red;
+}
+
+div.TEACHER_IS_NOT_AVAILABLE {
+  font-size: smaller;
+  color: olive;
+}
+
+/* Final del fitxer. */
